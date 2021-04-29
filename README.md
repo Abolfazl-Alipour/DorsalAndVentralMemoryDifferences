@@ -21,7 +21,7 @@ Supplementary material for 'A computational examination of the two-streams hypot
 
 [MIRO: Multi-view Images of Rotated Objects dataset ](https://github.com/kanezaki/MIRO)
 
-The modified versions that were used in this study can be found [here](https://drive.google.com/drive/folders/16hEoysAsPKtZOFCASWACZvt3uCrSYcGI?usp=sharing)
+The modified versions that were used in this study can be found [here](https://drive.google.com/drive/folders/16hEoysAsPKtZOFCASWACZvt3uCrSYcGI?usp=sharing).
 
 ### Usage Conditions
 If you use this code in your work, we ask you to please cite:
