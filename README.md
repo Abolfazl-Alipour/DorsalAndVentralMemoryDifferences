@@ -17,7 +17,9 @@ Supplementary material for 'A computational examination of the two-streams hypot
 ### Dataset
 
 [COIL-100 Dataset](https://www.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
+
 [MIRO: Multi-view Images of Rotated Objects dataset ](https://github.com/kanezaki/MIRO)
+
 The modified versions that were used in this study can be found here:
 
 ### Usage Conditions
