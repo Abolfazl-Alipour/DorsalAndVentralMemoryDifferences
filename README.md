@@ -10,6 +10,7 @@ Supplementary material for 'A computational examination of the two-streams hypot
 3. Python  >= 3.7 
 4. Seaborn
 5. SciPy
+6. [EchoTorch](https://github.com/nschaetti/EchoTorch)
 
 ### Usage Notes:
 
